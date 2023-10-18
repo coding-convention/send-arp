@@ -9,8 +9,6 @@ To run the program, follow these instructions:
 syntax: send-arp-test <interface> <sender ip> <target ip>
 sample: send-arp-test wlan0 10.1.1.2 10.1.1.3
 
-markdown
-Copy code
 
 - `<interface>`: Specify the name of the network interface on which you want to perform ARP Spoofing.
 - `<sender ip>`: Specify the IP address of the sender you want to impersonate.
